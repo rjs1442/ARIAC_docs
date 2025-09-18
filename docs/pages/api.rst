@@ -270,3 +270,4 @@ Lidar Sensors
      - Description
    * - `/{lidar_name}/scan <https://docs.ros.org/en/jazzy/p/sensor_msgs/msg/PointCloud2.html>`_
      - Reports the point cloud detected from the lidar scan
+
