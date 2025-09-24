@@ -232,7 +232,7 @@ The inspection classification bonus is awarded for correctly identifying defect 
 
   .. math::
 
-    \beta_5 = \omega_7 \cdot (1 - \frac{\nu}{\delta})
+    \beta_5 = \omega_7 \cdot (\frac{\nu}{\delta})
 
 .. list-table:: Variables
    :widths: 25 75
